@@ -1,0 +1,27 @@
+{
+  "name": "101107123_comp3123-exec04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoekovac/101107123_COMP3123-exec04.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/zoekovac/101107123_COMP3123-exec04/issues"
+  },
+  "homepage": "https://github.com/zoekovac/101107123_COMP3123-exec04#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
